@@ -1,0 +1,9 @@
+1. captura de pantalla
+2. Averiguar si un numero dado es pa o impar
+3. Validacion de una asignatura dependiendo de un rango segun el promedio,
+   para dar el resultado de APROBADO, EN RECUPERACION O REPROBADO.
+4. Validar una contraseña
+5. Comparando 2 numeros
+6. Calcular descuento en compras
+7. Verificar si es un dia habil, segun dia digitado en letras
+8. Verificar numero si esta en intervalo
