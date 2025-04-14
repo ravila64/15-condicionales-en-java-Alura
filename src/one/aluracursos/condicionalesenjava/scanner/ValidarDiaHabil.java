@@ -15,5 +15,6 @@ public class ValidarDiaHabil {
         }else{
             System.out.println("El dia "+diaSemana+" Es habil");
         }
+        scanner.close();
     }
 }

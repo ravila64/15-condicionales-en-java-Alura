@@ -16,5 +16,6 @@ public class ComparaNumeros {
         }else{
             System.out.println("Numero "+num1+" Es MENOR a numero "+num2);
         }
+        scanner.close();
     }
 }

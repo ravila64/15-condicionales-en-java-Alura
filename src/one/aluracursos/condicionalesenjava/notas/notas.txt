@@ -7,3 +7,5 @@
 6. Calcular descuento en compras
 7. Verificar si es un dia habil, segun dia digitado en letras
 8. Verificar numero si esta en intervalo
+9. Verificacion si es un triangulo
+10.

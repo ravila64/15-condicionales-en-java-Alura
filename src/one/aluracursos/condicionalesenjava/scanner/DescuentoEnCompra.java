@@ -16,5 +16,6 @@ public class DescuentoEnCompra {
         }else{
             System.out.println("Valor compra "+valorCompra+" no tiene descuento");
         }
+        scanner.close();
     }
 }

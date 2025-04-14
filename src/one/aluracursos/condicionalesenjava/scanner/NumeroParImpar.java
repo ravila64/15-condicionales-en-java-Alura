@@ -13,6 +13,5 @@ public class NumeroParImpar {
         }else{
             System.out.println("El numero "+numero+ " Es impar");
         }
-
     }
 }

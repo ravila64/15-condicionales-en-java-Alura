@@ -12,5 +12,6 @@ public class ValorPermitidoEnPrestamo {
         }else{
             System.out.println("El valor del prestamo "+prestamo+" No esta en rango permitido");
         }
+        scanner.close();
     }
 }

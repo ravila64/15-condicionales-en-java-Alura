@@ -1,7 +1,6 @@
 package one.aluracursos.condicionalesenjava.scanner;
 
 import java.io.Console;
-import java.util.Scanner;
 
 public class ValidatePassword {
     public static void main(String[] args) {
